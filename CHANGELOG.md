@@ -1,3 +1,15 @@
+# [0.4.0](https://github.com/jataheri1/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-14)
+
+
+### Features
+
+* add testing to pipeline ([7368a76](https://github.com/jataheri1/greetings-ci/commit/7368a7651867e1bfaa4fe70b2c3f48518d238028))
+* add testing to pipeline 2 ([eb5c4b3](https://github.com/jataheri1/greetings-ci/commit/eb5c4b35017a9d5c6caf3f877c46fa7fe43c40c0))
+* add testing to pipeline 3 ([373f7bc](https://github.com/jataheri1/greetings-ci/commit/373f7bc59362944beed9f1e8adc7b4695e4b70ab))
+* add testing to pipeline 4 ([6b978aa](https://github.com/jataheri1/greetings-ci/commit/6b978aad36a7368ff90fac963ab0023ab4da8851))
+
+
+
 # [0.3.0](https://github.com/jataheri1/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-14)
 
 
