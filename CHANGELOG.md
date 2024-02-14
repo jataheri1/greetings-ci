@@ -1,4 +1,13 @@
-# 0.1.0 (2024-02-14)
+# [0.2.0](https://github.com/jataheri1/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-14)
+
+
+### Features
+
+* upload artifact ([d03b3ef](https://github.com/jataheri1/greetings-ci/commit/d03b3efe995ee9754b417e4e3021967530776cb7))
+
+
+
+# [0.1.0](https://github.com/jataheri1/greetings-ci/compare/c2cb1ea7393558033bda380dee3d23126f6f8cb5...v0.1.0) (2024-02-14)
 
 
 ### Bug Fixes
