@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/jataheri1/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-14)
+
+
+### Features
+
+* version artifact ([562ce1b](https://github.com/jataheri1/greetings-ci/commit/562ce1b6205b4b87496840cfa8216fa49f69c72a))
+
+
+
 # [0.2.0](https://github.com/jataheri1/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-14)
 
 
